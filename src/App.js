@@ -6,7 +6,6 @@ import Services from './components/Services';
 import Tours from './components/Tours';
 import Footer from './components/Footer';
 const App = () => {
-  console.log('wtf3');
   return (
     <>
       <Navbar />
